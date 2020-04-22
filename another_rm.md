@@ -1,3 +1,3 @@
 #Another readme
 
-This is **another** readme
+This is **another** readme containing a smiley 😁
